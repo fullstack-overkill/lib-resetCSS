@@ -5,6 +5,6 @@
 Uma bibllioteca que tenta manter concistencia na estilização entre navegadores.
 
 
-[ing]
+[eng]
 
 A library that tries to maintain consistency in styling across browsers.
